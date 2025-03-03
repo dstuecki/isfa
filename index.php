@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Gaming Blog</title>
+        <link rel="stylesheet" type="text/css" href="css/layout.css" />
     </head>
     <body>
         <div id="area01">
@@ -20,7 +21,7 @@
 
             </div>
             <div id="buttom">
-                
+
             </div>
         </div>
     </body>
