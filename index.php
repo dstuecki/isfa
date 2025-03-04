@@ -5,22 +5,22 @@
     </head>
     <body>
         <div id="area01">
-            <div id="header">
+            <div id="area02">
 
             </div>
-            <div id="slider">
+            <div id="area03">
 
             </div>
-            <div id="menue">
+            <div id="area04">
 
             </div>
-            <div id="submenue">
+            <div id="area05">
 
             </div>
-            <div id="content">
+            <div id="area06">
 
             </div>
-            <div id="buttom">
+            <div id="area07">
 
             </div>
         </div>

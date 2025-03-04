@@ -1,0 +1,8 @@
+#area01{
+    width:1900px;
+    height: auto;
+    min-width: 1000px;
+    background: #550000;
+    border-radius: 5px 5px 5px 5px;
+    border-color: aqua;
+}
